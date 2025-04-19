@@ -9,7 +9,7 @@ export default defineConfig({
   },
 css: {
     modules: {
-      scopeBehaviour: 'local', // Це поведінка за замовчуванням, але перевірка не завадить
+      scopeBehaviour: 'local',
     }
   }
 });
